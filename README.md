@@ -1,6 +1,8 @@
-### Have a Nice Day 👋
+### Have a Nice Day 👋🐱‍👤,warrior!
 
-# Learn everyday
+* Learn carefully
+* Think clearly
+* Speak fluently
 
 ![Github](https://github-readme-stats.vercel.app/api?username=DiracMD)
 <!--
