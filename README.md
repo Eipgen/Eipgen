@@ -1,6 +1,6 @@
 ### Have a Nice Day 👋
 
-# Jxiao
+# Learn everyday
 
 ![Github](https://github-readme-stats.vercel.app/api?username=DiracMD)
 <!--
