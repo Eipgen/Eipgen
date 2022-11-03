@@ -1,8 +1,9 @@
+<div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=DiracMD" /> </div>
+
 ### Have a Nice Day 👋🐱‍👤,warrior!
 Everyday You Need
 * Learn carefully ⌨
 * Speak fluently  💬
 * Think clearly   🤔
-
-![DiracMD's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiracMD&show_icons=true&theme=radical)
-
+<div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=DiracMD&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=radical" /> </div>
+<div align="left"> <img height="200px" src="https://activity-graph.herokuapp.com/graph?username=DiracMD&theme=white" /> </div>
