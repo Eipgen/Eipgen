@@ -1,5 +1,8 @@
 ### Have a Nice Day 👋🐱‍👤,warrior!
+Everyday You Need
+* Learn carefully ⌨
+* Speak fluently  💬
+* Think clearly   🤔
 
-* Learn carefully
-* Think clearly
-* Speak fluently
+![DiracMD's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiracMD&show_icons=true&theme=radical)
+
