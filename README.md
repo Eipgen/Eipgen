@@ -6,4 +6,4 @@ Everyday You Need
 * SPEAK FLUENTLY 💬
 * THINK CLEARLY 🌞
 <div align="left"> <img height="163px" src="https://github-readme-stats.vercel.app/api?username=DiracMD&theme=transparent" /> </div>
-<div align="left"> <img height="146px" src="https://activity-graph.herokuapp.com/graph?username=DiracMD&theme=rogue" /> </div>
+<div align="left"> <img height="146px" src="https://activity-graph.herokuapp.com/graph?username=DiracMD&custom_title=Activity&hide_border=false&theme=rogue" /></div>
