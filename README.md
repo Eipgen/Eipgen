@@ -1,4 +1,4 @@
-<div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=DiracMD" /> </div>
+![visit](https://visitor-badge.glitch.me/badge?page_id=DiracMD")
 
 ### Have a Nice Day 👋🐱‍👤,warrior!
 Everyday You Need
@@ -6,8 +6,8 @@ Everyday You Need
 * SPEAK FLUENTLY 💬
 * THINK CLEARLY 🌞
 
-![JinXiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiracMD&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiracMD&layout=compact&theme=tokyonight)
+![JinXiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiracMD&show_icons=true&theme=tokyonight&card_width=300)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiracMD&layout=compact&theme=tokyonight,&card_with=700px)
 
 
 <!--START_SECTION:waka-->
