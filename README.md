@@ -7,3 +7,5 @@ Everyday You Need
 * THINK CLEARLY 🌞
 <div align="left"> <img height="163px" src="https://github-readme-stats.vercel.app/api?username=DiracMD&theme=transparent" /> </div>
 <div align="left"> <img height="163px" src="https://github-readme-streak-stats.herokuapp.com/?user=DiracMD" /> </div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
