@@ -55,19 +55,16 @@ Sunday       23 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 mins              █████████████████████████   99.79% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DPQEq                    6 mins              ████████████████████░░░░░   82.46% 
-rundata                  1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
-deepmd_on_pytorch-master 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.41%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -88,5 +85,5 @@ xBase                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DiracMD/DiracMD/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/01/2023 18:38:47 UTC
+ Last Updated on 17/01/2023 18:38:02 UTC
 <!--END_SECTION:waka-->
