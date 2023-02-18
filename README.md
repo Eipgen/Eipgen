@@ -6,7 +6,7 @@ Everyday You Need
 * SPEAK FLUENTLY 💬
 * THINK CLEARLY 🌞
 
-![JinXiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiracMD&show_icons=true&theme=tokyonight&card_width=1010)   
+![JinXiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eipgen&show_icons=true&theme=tokyonight&card_width=1010)   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DiracMD&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
