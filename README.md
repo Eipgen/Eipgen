@@ -1,7 +1,7 @@
 ![visit](https://visitor-badge.glitch.me/badge?page_id=Eipgen")
 
 ### Have a Nice Day 👋🐱‍👤,warrior!
-Everyday You Need
+EXPLORATION is ALL You Need
 * LEARN CAREFULLY ⌨
 * SPEAK FLUENTLY 💬
 * THINK CLEARLY 🌞
