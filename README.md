@@ -1,4 +1,4 @@
-### Have a Nice Day 👋🐱‍👤,warrior!
+### Have a Nice Day 👋🐱‍👤
 EXPLORATION is ALL You Need
 * LEARN CAREFULLY ⌨
 * THINK LOGICALLY 🌞
